@@ -1,0 +1,2 @@
+# Caracteristicas-GITHUB.
+INICIO
